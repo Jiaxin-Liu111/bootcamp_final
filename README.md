@@ -1,2 +1,3 @@
-# bootcamp_final
-Final for NYU Data Bootcamp
+# Predicting Skateboard Sales
+
+This is my final project 
